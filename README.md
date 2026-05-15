@@ -1,6 +1,6 @@
 # Hyperskill
 
-My first JavaScript project created during learning JavaScript.
+My first JavaScript project created during learning JavaScript on Hyperskill platform.
 
 ## Features
 - calculates shop income
